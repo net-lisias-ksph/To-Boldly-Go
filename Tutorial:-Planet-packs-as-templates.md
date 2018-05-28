@@ -2,7 +2,7 @@
 
 To Boldly Go (TBG) is written so it will, by default, use the stock KSP planets and moons as templates when making extrasolar planets and moons. The user can easily extend it to use the bodies defined in planet packs, though. The feature has existed since 0.2.6 (06 March 2017), but it hasn't been documented until now. Everything should Just Work™ assuming the planet pack works with the latest version of Kopernicus. Here, I'll document the steps the user should take to make use of the feature.
 
-In its most basic form, you will have to make some basic edits to a TBG file. More realistic generated galaxies will require a bit more editing, but nothing terrible. If you can use a text editor, you can do this.
+In its most basic form, you will have to make some simple edits to a TBG file. More realistic generated galaxies will require a bit more editing, but nothing terrible. If you can use a text editor, you can do this.
 
 **1. Find a planet pack**
 
