@@ -1,0 +1,1 @@
+So...you want to use planet packs as templates for extrasolar planets.
